@@ -8,7 +8,7 @@ export default function Home() {
       <h1 className="flex text-4xl font-extrabold mb-5">COURSES</h1>
       <CourseCardComponent/>
       </section>
-      <section className="mt-10">
+      <section className="my-10">
       <h1 className="flex text-4xl font-extrabold mb-5">USEFUL CONTENTS</h1>
       <CourseCardComponent/>
       </section>

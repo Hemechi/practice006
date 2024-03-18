@@ -110,7 +110,7 @@ export default function CourseCardComponent() {
                         </figure>
                         <div className="card-body">
                             <h2 className="card-title hover:text-dark-blue">{product.title}</h2>
-                            <div className="bg-dark-red font-bold p-1 rounded-xl w-36 text-white">
+                            <div className="badge bg-dark-red text-white">
                                 20% Scholarship
                             </div>
                             <p className="line-clamp-2">{product.description}</p>
